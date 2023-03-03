@@ -8,7 +8,7 @@
 // module.exports=generateCodeFromObject;
 
 
-// // ReactDOM.render(<App />, document.getElementById("root"));
+// ReactDOM.render(<App />, document.getElementById("root"));
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 
